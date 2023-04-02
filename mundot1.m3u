@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 HD 1080P
-http://2.alcapone1.com:8080/Joaquin/123456/4785
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 HD 720P
 http://2.alcapone1.com:8080/Joaquin/123456/4786
 #EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 SD
