@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4785
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4786
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 SD
+http://2.alcapone1.com:8080/Joaquin/123456/4787
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="TDT",LA 2 HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4789
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="TDT",LA 2 SD
+http://2.alcapone1.com:8080/Joaquin/123456/4790
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="TDT",ANTENA 3 HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4791
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="TDT",ANTENA 3 HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4792
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="TDT",ANTENA 3 SD
+http://2.alcapone1.com:8080/Joaquin/123456/4793
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD 1080P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4794
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD 720P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4795
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO SD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO SD
+http://2.alcapone1.com:8080/Joaquin/123456/4796
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="TDT",TELECINCO HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4797
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="TDT",TELECINCO HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4798
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="TDT",TELECINCO SD
+http://2.alcapone1.com:8080/Joaquin/123456/4799
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4800
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4801
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA SD
+http://2.alcapone1.com:8080/Joaquin/123456/4802
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/2880px-Ten.svg.png" group-title="TDT",TEN SD
+http://2.alcapone1.com:8080/Joaquin/123456/4803
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="TDT",DKISS HD
+http://2.alcapone1.com:8080/Joaquin/123456/4804
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="TDT",BE MAD HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4805
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="TDT",BE MAD HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4806
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="TDT",BE MAD SD
+http://2.alcapone1.com:8080/Joaquin/123456/4807
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ATRESERIES HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="TDT",ATRESERIES HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4808
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ATRESERIES HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="TDT",ATRESERIES HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4809
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="TDT",ATRESERIES SD
+http://2.alcapone1.com:8080/Joaquin/123456/4810
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ATRESCINE HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="TDT",ATRESCINE HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/12404
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="TDT",NEOX HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4811
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name="NEOX HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="TDT",NEOX HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4812
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name="NEOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="TDT",NEOX SD
+http://2.alcapone1.com:8080/Joaquin/123456/4813
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="TDT",NOVA HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4814
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="TDT",NOVA HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4815
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="TDT",NOVA SD
+http://2.alcapone1.com:8080/Joaquin/123456/4816
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="TDT",ENERGY HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4817
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="TDT",ENERGY HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4818
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="TDT",ENERGY SD
+http://2.alcapone1.com:8080/Joaquin/123456/4819
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="TDT",DIVINITY HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4820
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="TDT",DIVINITY HD 720P
+http://2.alcapone1.com:8080/Joaquin/123456/4821
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="TDT",DIVINITY SD
+http://2.alcapone1.com:8080/Joaquin/123456/4822
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF HD 1080P" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="TDT",FDF HD 1080P
+http://2.alcapone1.com:8080/Joaquin/123456/4823
